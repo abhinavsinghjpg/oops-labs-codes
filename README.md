@@ -27,8 +27,6 @@ This repo is designed to be:
 
 ---
 
-## 🚀 Features
-
 ## 🚀 Features  
 ✔ Clean and modular folder structure <br>
 ✔ Well-commented C++ programs <br>
